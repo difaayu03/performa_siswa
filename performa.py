@@ -9,7 +9,7 @@ st.title('Prediksi Performa Siswa')
 
 Hours_Studied = st.text_input('Jam Belajar')
 Sleep_Hours = st.text_input('Jam Tidur')
-SampleQuestionPapersPracticed = st.text_input('Soal Latihan yang Dikerjakan')
+SampleQuestionPapersPracticed = st.text_input('Jumlah soal contoh yang telah dikerjakan')
 Previous_Scores = st.text_input('Nilai Sebelumnya')
 Extracurricular_Activities = st.selectbox('Ekstrakurikuler', ['Ya', 'Tidak'])
 
